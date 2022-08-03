@@ -27,4 +27,4 @@ origin  https://github.com/Kdeewan/GitDemo.git (fetch)
 origin  https://github.com/Kdeewan/GitDemo.git (push)
 
 Kalpit@Kartik MINGW64 ~/Documents/workspace_git_project/GitDemo (master)
-$ git push origin master
+$ git push origin master or git push -f origin master (With the -f tag you will override the remote branch code with your local repo code.)
