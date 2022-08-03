@@ -9,6 +9,6 @@ public class SimpleController {
 	@GetMapping("/get")
 	public String getSomething()
 	{
-		return "Hi Kartik, You are on brother....";
+		return "Hi Kartik, You are on brother.......";
 	}
 }
